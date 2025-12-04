@@ -38,17 +38,17 @@ It demonstrates **Object-Oriented Programming, Layered Architecture, File Input 
 ### 🖼 Profile Photo Update
 - Update customer’s stored photo using:
 ```java
-FileInputStream fileInputStream = new FileInputStream(file);
+FileInputStream fileInputStream = new FileInputStream(file
+```
+### 🧯 Error Handling
+- File not found for invalid photo path
+- Number format exceptions handled using parseInt / parseDouble
+- Clean exit using System.exit(0)
 
-🧯 Error Handling
-
-File not found for invalid photo path
-
-Number format exceptions handled using parseInt / parseDouble
-
-Clean exit using System.exit(0)
-
-👨‍💻 Author
+### 👨‍💻 Author
 
 Anirudh Ghogre
 Java Developer | Backend Developer
+
+
+
