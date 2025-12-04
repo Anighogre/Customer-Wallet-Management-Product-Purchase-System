@@ -40,3 +40,15 @@ It demonstrates **Object-Oriented Programming, Layered Architecture, File Input 
 ```java
 FileInputStream fileInputStream = new FileInputStream(file);
 
+🧯 Error Handling
+
+File not found for invalid photo path
+
+Number format exceptions handled using parseInt / parseDouble
+
+Clean exit using System.exit(0)
+
+👨‍💻 Author
+
+Anirudh Ghogre
+Java Developer | Backend Developer
